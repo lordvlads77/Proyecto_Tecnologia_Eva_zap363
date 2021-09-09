@@ -12,10 +12,11 @@ int main()
         1, 2, 3
     }};
 
+   /*
    for(int i{}; i < 3; i++)
    {
        std::cout << &numArr[i] << std::endl;
-   }
+   } */
 
 
     /*for(int& n : numArr)
